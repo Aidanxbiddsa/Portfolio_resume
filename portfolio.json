@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "name": "Kitchintel",
+            "description": "A software executable that creates, prints, and illustrates recipes to the user. Repository currently unavailable"
+        },
+        {
+            "name": "Y86 Assembly Language",
+            "description":"A Y86 disassembler that takes in Y86 instructions as memory and converts it to readable assembly language code Programmed through C. Repository Private"
+        }
+    ]
+}
